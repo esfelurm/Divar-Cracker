@@ -1,5 +1,5 @@
 from requests import post
-from colorama import init()
+from colorama import init
 init()
 class Divar:
     class colors:
