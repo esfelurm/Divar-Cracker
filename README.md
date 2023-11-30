@@ -27,3 +27,12 @@ With this tool, you can guess the password of Divar.ir site with 2 methods
 <video src="https://github.com/esfelurm/Divar-Cracker/assets/104654028/dc5dab49-4773-4d18-bc76-389051d7ab7b"> </video>
 
 
+## Install
+
+```
+git clone https://github.com/esfelurm/Divar-Cracker
+cd Divar-Cracker
+python divar-cracker.py
+```
+
+Bye Bye
